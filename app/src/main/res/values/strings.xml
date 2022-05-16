@@ -2,4 +2,10 @@
     <string name="app_name">FinalProject2</string>
     <string name="judul">Selamat Datang</string>
     <string name="peringatan">Masukkan Data yang terdaftar</string>
+
+    <string-array name="jenisbrg">
+        <item>Kaos</item>
+        <item>Kemeja</item>
+    </string-array>
+
 </resources>

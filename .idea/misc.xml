@@ -4,10 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/android/FinalProject2/app/src/main/res/drawable/layout_bg.xml" value="0.3675" />
-        <entry key="..\:/android/FinalProject2/app/src/main/res/layout/activity_itemform.xml" value="0.36666666666666664" />
-        <entry key="..\:/android/FinalProject2/app/src/main/res/layout/activity_loginform.xml" value="0.33" />
-        <entry key="..\:/android/FinalProject2/app/src/main/res/layout/activity_main.xml" value="0.22" />
-        <entry key="..\:/android/FinalProject2/app/src/main/res/layout/activity_newstaffform.xml" value="0.33" />
+        <entry key="..\:/android/FinalProject2/app/src/main/res/layout/activity_itemform.xml" value="0.1" />
+        <entry key="..\:/android/FinalProject2/app/src/main/res/layout/activity_loginform.xml" value="0.25" />
+        <entry key="..\:/android/FinalProject2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/android/FinalProject2/app/src/main/res/layout/activity_newstaffform.xml" value="0.2" />
         <entry key="..\:/android/FinalProject2/app/src/main/res/layout/newstaffform.xml" value="0.13425925925925927" />
         <entry key="..\:/android/FinalProject2/app/src/main/res/layout/nyoba.xml" value="0.1" />
       </map>

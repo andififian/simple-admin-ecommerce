@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:background="@android:color/holo_green_dark"
+    android:background="@android:color/darker_gray"
     android:orientation="vertical"
     >
 
@@ -23,6 +23,7 @@
             android:layout_width="100dp"
             android:layout_height="200dp"
             android:src="@drawable/staffimg"
+            android:onClick="staff"
             />
 
     </LinearLayout>
@@ -40,6 +41,7 @@
             android:layout_width="100dp"
             android:layout_height="200dp"
             android:src="@drawable/ic_baseline_add_shopping_cart_24"
+            android:onClick="stock"
             />
 
     </LinearLayout>

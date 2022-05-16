@@ -124,6 +124,7 @@
             android:background="@android:color/holo_red_dark"
             android:textColor="@color/white"
             android:layout_marginLeft="50dp"
+            android:onClick="main"
             android:layout_marginTop="20dp"/>
         <androidx.appcompat.widget.AppCompatButton
             android:layout_width="100dp"
